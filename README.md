@@ -1,24 +1,130 @@
-🚀 M7 HASHAWY
-💻 Code Artisan | 🌐 Web Developer | 🔒 Cybersecurity Explorer
-Passionate about crafting clean code, building responsive web solutions, and fortifying digital worlds against threats.<br/>
-🔗 Portfolio: [guns.lol](https://guns.lol/hashawy)<br/>
-✨ Turning ideas into secure, scalable realities.<br/>
-🛠️ Skills: Full-Stack Development | Pen Testing | Ethical Hacking | Bug Bounty<br/>
-🌟 Open to collabs on innovative projects that merge creativity and security.<br/>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/midohashawy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mohamedhashawy) 
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://jacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hashawy&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hashawy&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hashawy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hashawy&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
----
-[![](https://visitcount.itsvg.in/api?id=hashawy&icon=2&color=1)](https://visitcount.itsvg.in)
+<br>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
 
